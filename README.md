@@ -6,7 +6,7 @@ BAHAW helps you keep track of food, chosen expiry dates, and cooking timers.
 
 ## Download
 
-**[Download BAHAW 1.9.1 for Android](https://github.com/Sisterrr/BAHAW-Downloads/releases/download/v1.9.1/BAHAW-1.9.1-readiness.apk)**
+**[Download BAHAW 1.10.0 for Android](https://github.com/Sisterrr/BAHAW-Downloads/releases/download/v1.10.0/BAHAW-1.10.0-widget.apk)**
 
 [Latest release and installation notes](https://github.com/Sisterrr/BAHAW-Downloads/releases/latest) · [Older versions](https://github.com/Sisterrr/BAHAW-Downloads/releases)
 
@@ -21,7 +21,7 @@ Android 8.0 or newer is required. This APK is for Android; it cannot be installe
 
 ## Release archive
 
-Version 1.9.1 is recommended. Older APKs are historical downloads and lack later fixes and features. Installing an older version over a newer one may be rejected; do not uninstall merely to downgrade if you need your saved data.
+Version 1.10.0 is recommended. Older APKs are historical downloads and lack later fixes and features. Installing an older version over a newer one may be rejected; do not uninstall merely to downgrade if you need your saved data.
 
 Each release includes its APK and a SHA-256 checksum. This repository contains public installers and download documentation only; application source remains private.
 
