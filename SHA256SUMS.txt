@@ -15,3 +15,4 @@ eacba6c03e6524c666ef1f8220ea976ba59b423fa0ef0b4304b9d4eaec1501da  BAHAW-1.5.1-vi
 d04b5673fb6eb20dafb727a7b51453dcfa257327a3dedf9d8438d2d78eb2a570  BAHAW-1.7.0-final-polish.apk
 a627f5386c002bb91af5b556d37074878e259de5f829fcdcbf2ca9c6350fb4b5  BAHAW-1.8.0-timer-food.apk
 3ed4a0d55486355eb1b75f65c0d3091091f523f9fff27982f5135f08c25cdd5b  BAHAW-1.9.0-food-alerts.apk
+77bdc5c409c8b9f7fcc96780ad40c7a12b53dca783e3a18bf8dca8629e6faac2  BAHAW-1.9.1-readiness.apk
